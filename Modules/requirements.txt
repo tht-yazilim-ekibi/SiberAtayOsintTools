@@ -1,0 +1,9 @@
+requests
+colorama
+lxml
+bs4
+shodan
+requests_html
+fake-useragent
+python-whois
+phonenumbers
